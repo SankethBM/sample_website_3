@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.pimg {
+    width: 250px;
+    height: 250px;
+    border-radius: 500px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 15px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h4 {
+    width: 350px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+h5 {
+    border: 2px solid #000;
+    border-radius: 10%;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin: 25px 0 30px 550px;
+    cursor: pointer;
+}
+
+h5 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.h5-2 {
+    margin: -80px 0 30px 700px;
+    width: 120px;
+}
+
+h6 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.social {
+    margin-top: 10px;
+}
+
+a.fmog {
+    text-align: center;
+    text-decoration: none;
+    color: gray;
+    margin: 25px 0 0 540px;
+}
+
+a.fmof {
+    text-align: center;
+    text-decoration: none;
+    color: gray;
+    margin: 25px 0 0 20px;
+}
+
+.about {
+    text-align: center;
+    color: #000;
+    margin: 25px 0 0 640px;
+
+}
+
+.about_p {
+    text-align: center;
+    max-width: 450px;
+    margin: 30px 0 0 450px;
+
+}
